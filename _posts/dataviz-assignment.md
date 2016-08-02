@@ -2,14 +2,14 @@
 layout: post
 
 title: Good and Bad Data Visualizations
-description: Homework assignment #2
+description: Homework assignment, Week 2
 
 author: Claire Donnelly
 email: clairedonnelly2016@u.northwestern.edu
 twitter: _clairetweets
 ---
 
-Bad Data Visualization: 
+### Bad Data Visualization: 
 A Supreme Court With Merrick Garland Would Be the Most Liberal in Decades
 www.nytimes.com/interactive/2016/02/18/upshot/potential-for-the-most-liberal-supreme-court-in-decades.html
 
@@ -21,7 +21,7 @@ It seemed that the point The New York Times was trying to make was that Merrick 
 
 In general, I'm not convinced that this data visualization really added anything to the article text. I think it could have been just as effective to write about the major shifts in ideology, or to do a simple flow chart.  
 
-Good Data Visualization:
+### Good Data Visualization:
 How terrorism in the West compares to terrorism everywhere else
 https://www.washingtonpost.com/graphics/world/the-scale-of-terrorist-attacks-around-the-world
 
