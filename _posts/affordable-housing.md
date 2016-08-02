@@ -2,7 +2,7 @@
 layout: post
 
 title: D.C. Affordable Housing Units, By the Numbers
-description: Homework assignment, week #1
+description: Homework assignment, week 1
 
 author: Claire Donnelly
 email: clairedonnelly2016@u.northwestern.edu
