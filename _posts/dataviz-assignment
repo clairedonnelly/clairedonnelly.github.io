@@ -2,7 +2,7 @@
 layout: post
 
 title: Good and Bad Data Visualizations
-description: Good and Bad Data Visualizations
+description: Homework assignment #2
 
 author: Claire Donnelly
 email: clairedonnelly2016@u.northwestern.edu
@@ -13,14 +13,13 @@ Bad Data Visualization:
 A Supreme Court With Merrick Garland Would Be the Most Liberal in Decades
 www.nytimes.com/interactive/2016/02/18/upshot/potential-for-the-most-liberal-supreme-court-in-decades.html
 
-This data visualization is confusing and hard to read. Data visualizations should present data in a way that makes the data accessible and fairly intuitive. Though this graphic looks cool and is really comprehensive in terms of the data it includes, there is too much going on for it to be easily readable. The light gray dots, dark gray dots and different colored arrows pointing in different directions draw my eye all over the place rather than to a single focal point or overall trend.
+This data visualization is confusing and hard to read. Data visualizations should present data in a way that makes the data accessible and fairly intuitive. Though this graphic looks cool and is really comprehensive in terms of the data it includes, there is too much going on for it to be easily readable. The light gray dots, dark gray dots and different colored arrows pointing in different directions draw my eye all over the place rather than to a single focal point or overall trend. 
 
- I am particularly confused by the light gray dots. I know that they represent the median of the term, but which justice does that median reflect? The voting record of the median justice? I think it’s supposed to be a point of comparison for how liberal or conservative the court was leaning generally as compared to incoming or outgoing justices, but it’s kind of difficult to figure out that comparison. The x axis, which is scaled in 5 year increments, makes it hard to figure out which years line up with which ideological shifts, but the Times might have just decided that the time period wasn’t all that important and chosen to put less emphasis on it. (I guess people aren’t necessarily using this graph to figure out when Rehnquist came on as a justice and the graph does generally show which decade each justice shifted on and off.)
+I am particularly confused by the light gray dots. I know that they represent the median of the term, but which justice does the median reflect? I think it's supposed to be a point of comparison for how liberal or conservative the court was leaning generally as compared to incoming or outgoing justices, but it's kind of difficult to figure out that comparison. The x axis, which is scaled in five year increments, makes it hard to figure out which years line up with which ideological shifts, but the Times might have just decided that the time period wasn't all that important and chosen to put less emphasis on it. (I guess people aren't necessarily using this visualization to figure out when Rehnquist came on as a justice and it does generally show which decade each justice shifted on and off.)
 
- It seemed that the point The New York Times was trying to make was that Merrick Garland, or whoever is selected as Scalia’s replacement (if selected while Obama is still president) could swing the balance of the court to a much more liberal position, but this isn’t really reflected in the visualization. The blue arrow pointing from Scalia to the question mark on the far right side does not seem like an especially dramatic or noteworthy shift, especially considering the extremely long red arrows drawn near the middle of the graph that represent the shift from Douglas to Stevens and from Marshall to Thomas. 
+It seemed that the point The New York Times was trying to make was that Merrick Garland, or whoever is selected as Scalia's replacement (if selected while Obama is still president) could swing the balance of the court to a much more liberal position, but this isn't really reflected in the visualization. The blue arrow pointing from Scalia to the question mark on the far right side does not seem like an especially dramatic or noteworthy shift, especially considering the extremely long red arrows drawn near the middle of the graph that represent the shift from Douglas to Stevens and from Marshall to Thomas. 
 
-In general, I’m not convinced that this data visualization really added anything to the article text. I think it could have been just as effective to write about the major shifts in ideology, or to do a simple flow chart. 
-
+In general, I'm not convinced that this data visualization really added anything to the article text. I think it could have been just as effective to write about the major shifts in ideology, or to do a simple flow chart.  
 
 Good Data Visualization:
 How terrorism in the West compares to terrorism everywhere else
