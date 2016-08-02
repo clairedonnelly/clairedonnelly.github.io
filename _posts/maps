@@ -1,0 +1,18 @@
+---
+layout: post
+
+title: Location and Number of Beds of U.S. Hospitals
+description: Location and Number of Beds of U.S. Hospitals
+
+author: Claire Donnelly
+email: clairedonnelly2016@u.northwestern.edu
+twitter: _clairetweets
+---
+
+For this week, I made a map on Carto that shows the locations of hospitals around the country. The map is also color-coded based on how many beds are at each hospital: the darker red dots represent the hospitals with more beds and the light yellow dots are hospitals with fewer beds. While this data is sort of a population map, because the hospitals with greater numbers of beds are generally located in larger cities, I think being able to see the precise locations of the hospitals is eye-opening.
+
+This week I also had some technical difficulties. 
+
+
+
+<iframe width="100%" height="520" frameborder="0" src="https://clairedonnelly2016.carto.com/viz/50d82446-543f-11e6-bc5d-0e05a8b3e3d7/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
