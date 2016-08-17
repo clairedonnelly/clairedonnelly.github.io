@@ -16,3 +16,4 @@ Original data source url: http://washingtondc.craigslist.org/search/doc/msa?hasP
 
 In analyzing the data, which I have in a Google spreadsheet linked below, I found some pretty interesting information. By sorting the musical instruments "Z to A" in the "price" column, I found that the most expensive musical instrument listed on the Washington D.C. Craigslist (of the listings that have pictures) is for sale for $79,900 and is a 1932 Steinway Model D Concert Grand Piano that is fully restored. By sorting "price" "A to Z" it appeared that the six cheapest things for sale in the instruments category all cost $1. But, after visiting the listing urls I realized that these Craigslist sellers were just using the $1 cost as a placeholder and that the price wasn't accurate. The next cheapest listing is a $10 harmonica from a blues band. 
 
+Google sheet link: https://docs.google.com/spreadsheets/d/1yygTRr2I6pExkQJ6Q0OoaQg4_6uPK38drBi6u6a1Dtg/edit#gid=0
